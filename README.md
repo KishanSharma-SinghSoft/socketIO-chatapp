@@ -11,10 +11,10 @@
 
 ### How to run
 
-#### clone the project: https://github.com/gurkanucar/socketio-simple-chat](https://github.com/KishanSharma-SinghSoft/socketIO-chatapp-frontend
+#### clone the project:https://github.com/KishanSharma-SinghSoft/socketIO-chatapp-frontend
 
 ```bash
-  git clone https://github.com/gurkanucar/socketio-simple-chat](https://github.com/KishanSharma-SinghSoft/socketIO-chatapp-frontend
+  git clone https://github.com/KishanSharma-SinghSoft/socketIO-chatapp-frontend
   cd socketio-simple-chat
   cd frontend
 ```
